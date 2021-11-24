@@ -19,9 +19,3 @@ We focused on metabolomics data with nonrandom missing values and latent factors
 The software [MetabMiss](https://github.com/chrismckennan/MetabMiss), dedicated to metabolomics data analysis, is developed by Dr. McKennan and I to offer a cohesive pipeline of getting missingness mechanisms and improving estimates of effect size and variances. 
 
 Applying this techonology, we have successfully spotted metabolites from blood plasma metabolomic data that have been showed biologically vital to some disease, while others neglect.
-
-
-### Noisy Learning
-------
-In year 2021, I worked with [Dr. Yang Liu](http://www.yliuu.com) at University of California Santa Cruz on weakly-supervised learning, where we are facing training dataset with noisy labels.
-We showed in experiment that using certain techniques, intentionally increasing label noise will increase the robustness of our model.
