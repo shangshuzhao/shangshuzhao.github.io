@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV](/files/CV_Shangshu Zhao.pdf){: .btn--research}
+
 Education
 ======
 * B.S. in Physics, ShanghaiTech University, 2019
