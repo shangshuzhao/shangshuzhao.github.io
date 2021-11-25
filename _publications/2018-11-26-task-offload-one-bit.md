@@ -8,4 +8,4 @@ paperurl: 'https://doi.org/10.1109/GlobalSIP.2018.8646619'
 citation: 'Zhao, Shangshu, Zhaowei Zhu, Fuqian Yang, and Xiliang Luo. 2018. &quot;Online Optimal Task Offloading with One-bit Feedback.&quot; <i>2018 IEEE Global Conference on Signal and Information Processing (GlobalSIP)</i>. IEEE, 2018.'
 ---
 
-[Download paper here](http://shangshuzhao.github.io/files/TaskOffloadingOne-Bit.pdf)
+[Download](http://shangshuzhao.github.io/files/TaskOffloadingOne-Bit.pdf){: .btn--research}
