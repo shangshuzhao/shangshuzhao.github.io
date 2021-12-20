@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 [Download CV](/files/CV_Shangshu Zhao.pdf){: .btn--research}
-[Download](/files/a.apk){: .btn--research}
 
 Education
 ======
